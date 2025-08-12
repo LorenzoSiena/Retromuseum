@@ -177,14 +177,5 @@ RAWG_API_KEY=your-rawg-api-key
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📞 Support
-
-For support, email support@retromuseumrebirth.com or join our Discord community.
-
----
 
 **Built with ❤️ for retro gaming enthusiasts**
