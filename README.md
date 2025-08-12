@@ -4,7 +4,15 @@ A nostalgic e-commerce platform dedicated to retro gaming consoles and classic v
 
 ## 🎯 Project Overview
 
-Retromuseum Rebirth is a modern web application that celebrates retro gaming culture by providing an interactive platform where users can explore, discover, and purchase classic gaming consoles and their most iconic games. The application combines modern web technologies with nostalgic gaming aesthetics.
+Retromuseum is a university web development project based on a fictional e-commerce store set in Catania, where users could buy used games and consoles, featuring a visual style heavily inspired by classic 8-bit graphics.
+It has a pre-populated mysql database, makes spotify api calls for the latest fake podcast available and uses mongo db as the cart database (only to get extra points for the project)
+
+## Some images
+<img width="1366" height="1399" alt="retromuseum_search" src="https://github.com/user-attachments/assets/c57fd421-c80c-4edf-ac01-8a0882a82030" />
+<img width="1366" height="2992" alt="retromuseum_about" src="https://github.com/user-attachments/assets/c0f64917-b40d-4354-9038-5f783d11f821" />
+<img width="584" height="517" alt="retromuseum_login" src="https://github.com/user-attachments/assets/ad5b2fc4-72c3-4c6d-9f43-0c0e00a3c6c8" />
+
+
 
 ## 🏗️ Technical Architecture
 
