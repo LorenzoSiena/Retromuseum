@@ -103,14 +103,14 @@ It has a pre-populated mysql database, makes spotify api calls for the latest fa
 - Node.js 16+
 - Redis (optional, for caching)
 
-### Installation
+### Installation WIP
 ```bash
 # Clone repository
-git clone [repository-url]
-cd retromuseum-rebirth
+git clone https://github.com/LorenzoSiena/Retromuseum.git
+cd cd Retromuseum
 
 # Install dependencies
-composer install
+composer install --ignore-platform-req=ext-mongodb
 npm install
 
 # Environment setup
