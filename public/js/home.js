@@ -165,7 +165,7 @@ function getGameInfo(url, url2, url_game, key_api, id_console, data_type_id) {
 
 
 
-const key_api = '***REMOVED***';
+const key_api = 'RAWG_API_KEY';
 const id_c1 = 49;
 const id_c2 = 23;
 const id_c3 = 43;

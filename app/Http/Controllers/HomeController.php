@@ -19,9 +19,8 @@ class HomeController extends Controller
 
 
     public function fetchPodcast(){
-        $client_id = "***REMOVED***"; //Identificatore della mia app [pubblica(?)]
-        $client_secret = "***REMOVED***"; //"Password" della mia app [per me e per spotify](dovrebbe rimanere nascosta al pubblico)
-
+        $client_id = env('SPOTIFY_CLIENT_ID');
+        $client_secret = env('SPOTIFY_CLIENT_SECRET');
         if(!isset($token)){
         // ACCESS TOKEN
         $ch = curl_init(); //inizializzo curl
