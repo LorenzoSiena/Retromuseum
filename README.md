@@ -140,6 +140,8 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 RAWG_API_KEY=your-rawg-api-key
+SPOTIFY_CLIENT_ID=your-api-cliend-id
+SPOTIFY_CLIENT_SECRET=your-api-cliend-secret
 ```
 
 ## 🛡️ Security Features

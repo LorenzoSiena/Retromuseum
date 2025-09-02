@@ -188,7 +188,7 @@ flag = window.setInterval(function () {
 }, 30000);
 
 
-/* fetch(`https://api.rawg.io/api/games?search=${this.value}&key=***REMOVED***`)}*/
+/* fetch(`https://api.rawg.io/api/games?search=${this.value}&key=394f8ac2db054cfda1189e604c4d08dc`)}*/
 //when enter is pressed on the input field it will call the function getGameInfo
 document.querySelector('#search').addEventListener('keyup', function (e) {
     if (e.code === 'Enter' && this.value != '') {
